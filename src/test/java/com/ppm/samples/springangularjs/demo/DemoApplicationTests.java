@@ -1,4 +1,4 @@
-package demo;
+package com.ppm.samples.springangularjs.demo;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -11,8 +11,8 @@ import org.springframework.test.context.junit4.SpringJUnit4ClassRunner;
 @WebAppConfiguration
 public class DemoApplicationTests {
 
-	@Test
-	public void contextLoads() {
-	}
+    @Test
+    public void contextLoads() {
+    }
 
 }
